@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1,
+    "name": "OpenPass",
+    "version": "1.0",
+    "background": {
+      "scripts": ["background/background.js"]
+    },
+    "permissions": ["http://localhost:51399/*"]
+  }
+  
