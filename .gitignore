@@ -137,3 +137,4 @@ server/include
 server/__pycache__
 server/pyvenv.cfg
 server/lib
+server/lib64
