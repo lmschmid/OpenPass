@@ -130,3 +130,10 @@ dmypy.json
 
 # Keys
 keys/
+
+# Ignore Virtual Environment Specifics
+server/bin
+server/include
+server/__pycache__
+server/pyvenv.cfg
+server/lib
